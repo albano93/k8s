@@ -1,2 +1,2 @@
 # k8s
-Holds couple of k_s yaml files
+Holds A couple of k8s yaml files
